@@ -1,0 +1,11 @@
+This project was created as a learning experiance
+and to explore PWA concepts.
+
+It is very rough and the google maps api
+was added just as something interesting to
+populate with geolocation coorinates.
+It will throw an error that it cannot be
+shown properly because it isn't being paid for and
+doesn't have an API key.  Feel free to add you own
+api key to the import if you want to see this app
+in all its glory.

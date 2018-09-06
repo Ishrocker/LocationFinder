@@ -1,0 +1,13 @@
+{
+  "name": "Location Finder",
+  "short_name": "LoFind",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#92d0fc",
+  "description": "A simple app for finding location.",
+  "icons": [{
+    "src": "images/icon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }]
+}
